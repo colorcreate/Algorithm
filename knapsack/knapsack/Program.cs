@@ -9,7 +9,7 @@ namespace knapsack
     class Program
     {
         static void Main(string[] args)
-        {  
+        { 
             int[] weight = { 5, 4, 6, 3 };//berat
             int[] value = { 10, 40, 30, 50 };//nilai barang
             int W = 10;//berat maksimum
