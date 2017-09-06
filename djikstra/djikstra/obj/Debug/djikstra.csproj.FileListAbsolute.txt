@@ -1,0 +1,6 @@
+C:\Users\boim\Source\Repos\Portofolio\djikstra\djikstra\bin\Debug\djikstra.exe.config
+C:\Users\boim\Source\Repos\Portofolio\djikstra\djikstra\bin\Debug\djikstra.exe
+C:\Users\boim\Source\Repos\Portofolio\djikstra\djikstra\bin\Debug\djikstra.pdb
+C:\Users\boim\Source\Repos\Portofolio\djikstra\djikstra\obj\Debug\djikstra.csprojResolveAssemblyReference.cache
+C:\Users\boim\Source\Repos\Portofolio\djikstra\djikstra\obj\Debug\djikstra.exe
+C:\Users\boim\Source\Repos\Portofolio\djikstra\djikstra\obj\Debug\djikstra.pdb
