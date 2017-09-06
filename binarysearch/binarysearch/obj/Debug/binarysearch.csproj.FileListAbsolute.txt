@@ -1,0 +1,6 @@
+C:\Users\ASUS\Source\Repos\Algoritma\binarysearch\binarysearch\bin\Debug\binarysearch.exe.config
+C:\Users\ASUS\Source\Repos\Algoritma\binarysearch\binarysearch\bin\Debug\binarysearch.exe
+C:\Users\ASUS\Source\Repos\Algoritma\binarysearch\binarysearch\bin\Debug\binarysearch.pdb
+C:\Users\ASUS\Source\Repos\Algoritma\binarysearch\binarysearch\obj\Debug\binarysearch.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\Algoritma\binarysearch\binarysearch\obj\Debug\binarysearch.exe
+C:\Users\ASUS\Source\Repos\Algoritma\binarysearch\binarysearch\obj\Debug\binarysearch.pdb
